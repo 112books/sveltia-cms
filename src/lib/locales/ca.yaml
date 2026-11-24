@@ -2370,11 +2370,11 @@ config:
     missing_backend: No s’ha definit el rerefons.
     missing_backend_name: No s’ha definit el nom del rerefons.
     # {$name} is the backend name from the CMS configuration
-    unsupported_known_backend: El rerefons {$name} no està <a>suportat</a> a Sveltia CMS.
+    unsupported_known_backend: El rerefons {$name} no <a>s’admet</a> a Sveltia CMS.
     # {$name} is the backend name from the CMS configuration
-    unsupported_deprecated_backend: El rerefons obsolet {$name} no està <a>suportat</a> a Sveltia CMS.
-    unsupported_custom_backend: Els rerefons personalitzats no estan <a>suportats</a> a Sveltia CMS.
-    unsupported_backend_suggestion: Useu un dels <a>rerefons suportats</a> en el seu lloc.
+    unsupported_deprecated_backend: El rerefons obsolet {$name} no <a>s’admet</a> a Sveltia CMS.
+    unsupported_custom_backend: Els rerefons personalitzats no <a>s’admeten</a> a Sveltia CMS.
+    unsupported_backend_suggestion: Useu un dels <a>rerefons admesos</a> en el seu lloc.
     missing_repository: No s’ha definit el repositori.
     invalid_repository: El repositori configurat no és vàlid. Ha de tenir el format «owner/repo».
     # Don’t localize `api_root`
