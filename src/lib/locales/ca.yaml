@@ -499,7 +499,7 @@ additions:
     forbidden: Només els administradors poden fer això.
     invalid_credentials: El nom d’usuari o la contrasenya no són correctes.
     user_disabled: Aquest compte està desactivat. Demaneu ajuda al vostre administrador.
-    too_many_attempts: Massa intents. Torneu-ho a provar més tard.
+    too_many_attempts: Heu fet massa intents. Torneu-ho a provar més tard.
     wrong_password: La contrasenya actual no és correcta.
     same_password: Trieu una contrasenya nova que sigui diferent de l’actual.
     invalid_github_login: Aquest no és un nom d’usuari de GitHub vàlid.
@@ -524,9 +524,9 @@ additions:
     origin_not_allowed: Aquest lloc no té permís per usar Sveltia CMS Additions. Demaneu al vostre administrador que l’afegeixi als dominis permesos.
     not_set_up: Sveltia CMS Additions encara no està connectat a GitHub. Demaneu al vostre administrador que acabi la configuració.
     # A user whose password an admin has reset signs in another way, e.g. with GitHub
-    temporary_password: S’ha restablert la vostra contrasenya. Inicieu la sessió amb el vostre nom d’usuari i la contrasenya temporal que us ha donat l’administrador i després trieu-ne una de nova.
+    temporary_password: S’ha restablert la vostra contrasenya. Inicieu la sessió amb el vostre nom d’usuari i la contrasenya temporal que us ha donat l’administrador, i després trieu-ne una de nova.
     # {$url} is the URL of the service
-    incompatible: Aquesta versió de Sveltia CMS no funciona amb el servei de Sveltia CMS Additions a {$url}.
+    incompatible: Aquesta versió de Sveltia CMS no funciona amb el servei de Sveltia CMS Additions disponible a {$url}.
     unreachable: No s’ha pogut connectar amb Sveltia CMS Additions. Torneu-ho a provar més tard.
     insecure_connection: Sveltia CMS Additions s’ha de servir mitjançant HTTPS. Comproveu l’opció `base_url` a la configuració del CMS.
     unexpected: La sol·licitud a Sveltia CMS Additions ha fallat a causa d’un error inesperat. Torneu-ho a provar més tard.
